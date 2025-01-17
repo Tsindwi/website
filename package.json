@@ -1,0 +1,23 @@
+{
+  "name": "kuyesela-community",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "HOST=0.0.0.0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.0",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@heroicons/vue": "^2.1.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "gsap": "^3.12.5",
+    "@vueuse/motion": "^2.1.0",
+    "vue3-lottie": "^3.2.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
