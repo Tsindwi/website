@@ -70,7 +70,8 @@
             >
               <option value="">Select an option</option>
               <option>Development</option>
-              <option>Design</option>
+              <option>Business Analysis</option>
+              <option>Quality assurance</option>
               <option>Project Management</option>
               <option>Research</option>
               <option>Other</option>
