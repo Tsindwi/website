@@ -2,7 +2,7 @@ import { Badge } from "@/components/ui/badge"
 
 const technologies = {
   Frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vue.js"],
-  Backend: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Redis"],
+  Backend: ["Node.js", "Python", "Ruby on Rails", ".NET Core", "PostgreSQL", "MongoDB", "Redis"],
   Mobile: ["React Native", "Flutter", "Swift", "Kotlin"],
   "Cloud & DevOps": ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD"],
   "AI & Analytics": ["Machine Learning", "Data Science", "Business Intelligence", "Predictive Analytics"],
